@@ -1,0 +1,14 @@
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\bin\Debug\net8.0\meuSuperBanco.exe
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\bin\Debug\net8.0\meuSuperBanco.deps.json
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\bin\Debug\net8.0\meuSuperBanco.runtimeconfig.json
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\bin\Debug\net8.0\meuSuperBanco.dll
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\bin\Debug\net8.0\meuSuperBanco.pdb
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\meuSuperBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\meuSuperBanco.AssemblyInfoInputs.cache
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\meuSuperBanco.AssemblyInfo.cs
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\meuSuperBanco.csproj.CoreCompileInputs.cache
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\meuSuperBanco.dll
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\refint\meuSuperBanco.dll
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\meuSuperBanco.pdb
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\meuSuperBanco.genruntimeconfig.cache
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\ref\meuSuperBanco.dll
