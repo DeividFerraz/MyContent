@@ -16,7 +16,6 @@ namespace meuSuperBanco
             try
             {
                 contaB.Sacar(100000, DateTime.Now, "Vou pagar");
-                Console.WriteLine($"A conta está com {contaB.Saldo}");
             }catch (ArgumentOutOfRangeException ex)
             {
                 Console.WriteLine(ex.Message);  
@@ -27,10 +26,10 @@ namespace meuSuperBanco
             }
 
             contaB.Sacar(1500, DateTime.Now, "Pagar a escola das crianças");
-            Console.WriteLine($"A conta está com {contaB.Saldo}");
 
             contaB.Sacar(2000, DateTime.Now, "Alugues");
-            Console.WriteLine($"A conta está com {contaB.Saldo}");
+
+            Console.WriteLine(contaB.PegarMovimentacao());  
         }
     }
 }

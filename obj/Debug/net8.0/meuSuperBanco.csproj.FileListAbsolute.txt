@@ -12,3 +12,4 @@ C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\refint\
 C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\meuSuperBanco.pdb
 C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\meuSuperBanco.genruntimeconfig.cache
 C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\ref\meuSuperBanco.dll
+C:\Users\deivi\source\repos\meuSuperBanco\meuSuperBanco\obj\Debug\net8.0\meuSuperBanco.sourcelink.json

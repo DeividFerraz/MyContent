@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("meuSuperBanco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7705a54f10e8e7678d080ae24e8c29337a32e48c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bd8fe2d848ebb7f7851d49d9a627e57ef875c9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("meuSuperBanco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("meuSuperBanco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
